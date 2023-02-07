@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre": "Revendedores",
+        "precio": 27890,
+        "rubro":"Varios",
+        "idCategoria": "Varios",
+        "img": "1.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Marcadores Varios.",
+        "precio": 3800,
+        "rubro":"Marcadores",
+        "idCategoria": 2,
+        "img": "2.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Revendedores.",
+        "precio": 18000,
+        "rubro":"Varios",
+        "idCategoria": "Varios",
+        "img": "3.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Revendedores",
+        "precio": 18990,
+        "rubro":"Varios",
+        "idCategoria": 1,
+        "img": "4.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Marcadores Varios",
+        "precio": 26890,
+        "rubro":"Marcadores",
+        "idCategoria": 2,
+        "img": "5.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Marcadores Varios",
+        "precio": 6990,
+        "rubro":"Marcadores",
+        "idCategoria": 2,
+        "img": "6.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Lapices de colores",
+        "precio": 4790,
+        "rubro":"Lapices",
+        "idCategoria": 3,
+        "img": "7.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Lapices de colores",
+        "rubro":"Lapices",
+        "precio": 11390,
+        "idCategoria": 3,
+        "img": "8.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Marcadores Varios",
+        "precio": 8790,
+        "rubro":"Marcadores",
+        "idCategoria": 2,
+        "img": "9.jpg",
+        "cantidad": 1
+    }
+]
