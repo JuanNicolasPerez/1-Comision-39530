@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "Combo Escolar",
         "nombre": "Revendedores",
         "precio": 27890,
         "rubro":"Varios",
@@ -9,74 +9,74 @@
         "cantidad": 1
     },
     {
-        "id": 2,
+        "id": "Marcadores x 6 Uds",
         "nombre": "Marcadores Varios.",
         "precio": 3800,
         "rubro":"Marcadores",
-        "idCategoria": 2,
+        "idCategoria": "Marcadores",
         "img": "2.jpg",
         "cantidad": 1
     },
     {
-        "id": 3,
+        "id": "kit Revendedores Varios",
         "nombre": "Revendedores.",
         "precio": 18000,
         "rubro":"Varios",
-        "idCategoria": "Varios",
+        "idCategoria": "Lapices",
         "img": "3.jpg",
         "cantidad": 1
     },
     {
-        "id": 4,
+        "id": "Kit Primaria",
         "nombre": "Revendedores",
         "precio": 18990,
         "rubro":"Varios",
-        "idCategoria": 1,
+        "idCategoria": "Varios",
         "img": "4.jpg",
         "cantidad": 1
     },
     {
-        "id": 5,
+        "id": "Marcadores x 8 Uds",
         "nombre": "Marcadores Varios",
         "precio": 26890,
         "rubro":"Marcadores",
-        "idCategoria": 2,
+        "idCategoria": "Marcadores",
         "img": "5.jpg",
         "cantidad": 1
     },
     {
-        "id": 6,
+        "id": "Marcadores x 48 Uds",
         "nombre": "Marcadores Varios",
         "precio": 6990,
         "rubro":"Marcadores",
-        "idCategoria": 2,
+        "idCategoria": "Marcadores",
         "img": "6.jpg",
         "cantidad": 1
     },
     {
-        "id": 7,
+        "id": "Lapices x 12 Uds",
         "nombre": "Lapices de colores",
         "precio": 4790,
         "rubro":"Lapices",
-        "idCategoria": 3,
+        "idCategoria": "Lapices",
         "img": "7.jpg",
         "cantidad": 1
     },
     {
-        "id": 8,
+        "id": "Lapices x 36 Uds",
         "nombre": "Lapices de colores",
         "rubro":"Lapices",
         "precio": 11390,
-        "idCategoria": 3,
+        "idCategoria": "Lapices",
         "img": "8.jpg",
         "cantidad": 1
     },
     {
-        "id": 9,
+        "id": "Caja Marcadores",
         "nombre": "Marcadores Varios",
         "precio": 8790,
         "rubro":"Marcadores",
-        "idCategoria": 2,
+        "idCategoria": "Marcadores",
         "img": "9.jpg",
         "cantidad": 1
     }

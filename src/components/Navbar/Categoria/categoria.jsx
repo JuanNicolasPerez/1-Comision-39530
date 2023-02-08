@@ -10,9 +10,9 @@ const Categoria = () => {
                 <ul className="dropdown-menu">
                     <li><Link className="dropdown-item" to={"/category/Varios"}>Varios</Link></li>
                     <li><hr className="dropdown-divider" /></li>
-                    <li><Link className="dropdown-item" to={"/category/2"}>Marcadores</Link></li>
+                    <li><Link className="dropdown-item" to={"/category/Marcadores"}>Marcadores</Link></li>
                     <li><hr className="dropdown-divider" /></li>
-                    <li><Link className="dropdown-item" to={"/category/3"}>Lapices</Link></li>
+                    <li><Link className="dropdown-item" to={"/category/Lapices"}>Lapices</Link></li>
                 </ul>
             </li>
         </>

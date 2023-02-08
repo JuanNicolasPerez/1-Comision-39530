@@ -9,10 +9,10 @@ export const ItemDetailContainer = () => {
         fetch('../Json/product.json')
             .then(response => response.json())
             .then(products => {
-                const item = products.find(prod => prod.id === parseInt(id))
+                const item = products.find(prod => prod.id === id)
                 setProducto(item)
             })
-    }, [])
+    }, [id])
 
     return (
         <div className='card mb-3 container itemDetail'>
